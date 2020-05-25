@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/example-counter/static/css/main.a3589832.chunk.css",
-    "main.js": "/example-counter/static/js/main.505f2745.chunk.js",
-    "main.js.map": "/example-counter/static/js/main.505f2745.chunk.js.map",
-    "runtime-main.js": "/example-counter/static/js/runtime-main.e233eab0.js",
-    "runtime-main.js.map": "/example-counter/static/js/runtime-main.e233eab0.js.map",
-    "static/js/2.c04473b5.chunk.js": "/example-counter/static/js/2.c04473b5.chunk.js",
-    "static/js/2.c04473b5.chunk.js.map": "/example-counter/static/js/2.c04473b5.chunk.js.map",
-    "index.html": "/example-counter/index.html",
-    "precache-manifest.81357f65a85d6e09f9a2fb542cb62a47.js": "/example-counter/precache-manifest.81357f65a85d6e09f9a2fb542cb62a47.js",
-    "service-worker.js": "/example-counter/service-worker.js",
-    "static/css/main.a3589832.chunk.css.map": "/example-counter/static/css/main.a3589832.chunk.css.map",
-    "static/js/2.c04473b5.chunk.js.LICENSE.txt": "/example-counter/static/js/2.c04473b5.chunk.js.LICENSE.txt"
+    "main.css": "/react-bootcamp-counter-example/static/css/main.a3589832.chunk.css",
+    "main.js": "/react-bootcamp-counter-example/static/js/main.4ec13aba.chunk.js",
+    "main.js.map": "/react-bootcamp-counter-example/static/js/main.4ec13aba.chunk.js.map",
+    "runtime-main.js": "/react-bootcamp-counter-example/static/js/runtime-main.7f3c3694.js",
+    "runtime-main.js.map": "/react-bootcamp-counter-example/static/js/runtime-main.7f3c3694.js.map",
+    "static/js/2.c04473b5.chunk.js": "/react-bootcamp-counter-example/static/js/2.c04473b5.chunk.js",
+    "static/js/2.c04473b5.chunk.js.map": "/react-bootcamp-counter-example/static/js/2.c04473b5.chunk.js.map",
+    "index.html": "/react-bootcamp-counter-example/index.html",
+    "precache-manifest.bc7d5eefbc33778c1008a0b48cc8530a.js": "/react-bootcamp-counter-example/precache-manifest.bc7d5eefbc33778c1008a0b48cc8530a.js",
+    "service-worker.js": "/react-bootcamp-counter-example/service-worker.js",
+    "static/css/main.a3589832.chunk.css.map": "/react-bootcamp-counter-example/static/css/main.a3589832.chunk.css.map",
+    "static/js/2.c04473b5.chunk.js.LICENSE.txt": "/react-bootcamp-counter-example/static/js/2.c04473b5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e233eab0.js",
+    "static/js/runtime-main.7f3c3694.js",
     "static/js/2.c04473b5.chunk.js",
     "static/css/main.a3589832.chunk.css",
-    "static/js/main.505f2745.chunk.js"
+    "static/js/main.4ec13aba.chunk.js"
   ]
 }
