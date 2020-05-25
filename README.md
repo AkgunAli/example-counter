@@ -9,6 +9,8 @@ Please visit https://akgunali.github.io/react-bootcamp-counter-example/ for revi
 In the project directory, you can run:
 ### `npm install`
 
+Install the dependencies in the local node_modules folder.
+
 
 
 ### `npm start`
